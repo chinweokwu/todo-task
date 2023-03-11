@@ -27,7 +27,7 @@ Bonus points will be awarded for:
   * adding redux state management.
   * hosting app on a platform like heroku
 
-
+// please click on the download on wetranfer to download the video
 Here is link to the video: https://we.tl/t-qZZxooz4A4
 
 Netify Link: https://main--famous-figolla-29388e.netlify.app/
