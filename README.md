@@ -26,3 +26,9 @@ Bonus points will be awarded for:
   * improvements to user experience, styling, and for correcting any obvious errors in wording on the site.
   * adding redux state management.
   * hosting app on a platform like heroku
+
+
+Here is link to the video: https://we.tl/t-qZZxooz4A4
+
+Netify Link: https://main--famous-figolla-29388e.netlify.app/
+
